@@ -1,3 +1,1 @@
-# js-drumkit
-
-This website is part of my JavaScript trainning.
+The Drumkit website is part of my JavaScript trainning and function like this: when you hit the correspondent key on your keyboard, the website is going to play the sound associated with that key and pop up along with the sound an animation that will aply a blue border on the correspondent key as well as scale up the same key.
